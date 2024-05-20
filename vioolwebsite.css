@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+
+.LijnBoven{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.9;
+    position: absolute;
+    top: 0px;
+    padding-left: 20px;
+}
+
+.div1 {
+    height: 700px;
+    width: 100%;
+    background-image: url("Vioolbackground.jpg");
+    background-size: auto 700px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 30px;
+}
+
+.div1a{
+    padding-top: 0px;
+    border-radius: 25px;
+    height: 670px;
+    width: 35%;
+    background-color: #fdfefd;
+    opacity: 0.95;
+    position: absolute;
+    top: 0px;
+    bottom: 20px;
+    right: 20px;
+    padding-left: 20px;
+}
+
+.LijnOnder{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.9;
+    position: absolute;
+    top: 740px;
+    padding-left: 20px;
+}
+
+
+/* iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
